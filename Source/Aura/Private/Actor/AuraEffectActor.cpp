@@ -2,12 +2,8 @@
 
 
 #include "Actor/AuraEffectActor.h"
-
 #include "AbilitySystemComponent.h"
-#include "AbilitySystemInterface.h"
 #include "AbilitySystemBlueprintLibrary.h"
-#include "AbilitySystem/AuraAttributeSet.h"
-#include "Components/SphereComponent.h"
 
 AAuraEffectActor::AAuraEffectActor()
 {
